@@ -15,7 +15,7 @@ Para llevar a cabo este análisis, seguí un flujo de trabajo estructurado:
 
 ##  Fuente de Datos
 El dataset utilizado para este análisis fue extraído del **UCI Machine Learning Repository**.
-🔗 Puedes encontrar más información aquí: [https://archive.ics.uci.edu/](https://archive.ics.uci.edu/)
+🔗 [https://archive.ics.uci.edu/]
 
 ## Herramientas y Tecnologías
 A lo largo de este proyecto, aprendí y utilicé el siguiente stack tecnológico:
