@@ -3,7 +3,7 @@
 ##  Sobre el Proyecto
 Este proyecto tiene como objetivo principal acompañarme en el descubrimiento y mejora de mis habilidades en el análisis de datos. A través de este trabajo práctico, busco comprender el paso a paso de cómo construir un buen modelo predictivo desde cero, entendiendo el proceso detrás de los datos.
 
-Adentrándonos en el proyecto en sí, el objetivo central es **predecir las probabilidades de que un alumno abandone o no una carrera**, logrando identificar qué variables tienen mayor impacto sobre nuestra variable a predecir.
+Adentrándonos en el proyecto en sí, el objetivo central es **predecir las probabilidades de que un alumno abandone o no una cursada**, logrando identificar qué variables tienen mayor impacto sobre nuestra variable a predecir.
 
 ##  Metodología del Proyecto
 Para llevar a cabo este análisis, seguí un flujo de trabajo estructurado:
