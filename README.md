@@ -13,13 +13,13 @@ Para llevar a cabo este análisis, seguí un flujo de trabajo estructurado:
 4. **Transformación:** Análisis sobre la necesidad de utilizar (o no) un *encoder* para el preprocesamiento.
 5. **Modelado Predictivo:** Aplicación, entrenamiento y evaluación de un modelo de Machine Learning (Árbol de Decisión).
 
-## 📊 Fuente de Datos
+##  Fuente de Datos
 El dataset utilizado para este análisis fue extraído del **UCI Machine Learning Repository**.
 🔗 Puedes encontrar más información aquí: [https://archive.ics.uci.edu/](https://archive.ics.uci.edu/)
 
-## 🛠️ Herramientas y Tecnologías
+## Herramientas y Tecnologías
 A lo largo de este proyecto, aprendí y utilicé el siguiente stack tecnológico:
-* **Lenguaje:** Python 🐍
+* **Lenguaje:** Python 
 * **Manipulación y Análisis de Datos:** Pandas, NumPy
 * **Visualización:** Matplotlib, Seaborn
 * **Machine Learning:** Scikit-Learn
